@@ -1,3 +1,4 @@
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 # Pizza Sales Analysis — Maven Analytics Dataset
 
 An end-to-end data analytics project covering SQL data cleaning, business analysis across 5 key questions, and an interactive Tableau dashboard — built on a full year of pizza restaurant order data.
@@ -8,6 +9,8 @@ An end-to-end data analytics project covering SQL data cleaning, business analys
 
 ![Pizza Sales Dashboard](pizza_sales_dashboard.png)
 
+## Link to Live Dashboard
+[![Dashboard](https://img.shields.io/badge/View_Dashboard-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/views/pizza-sales-dashboard/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## Project Overview
